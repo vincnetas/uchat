@@ -1,6 +1,7 @@
 n:Kraštutinis patriotas Petras
 t:Liublino unija
-s:Labas
+s:Sveikas! Esu Petras, pagal profesiją – inžinierius. Liublino unija man reiškia tuometinės Lietuvos žlugimą. Pasakysiu, kodėl.
+
 
 q:Ar Liublino unija buvo neišvengiama?
 s:Lietuvos Didžioji Kunigaikštystė turėjo ieškoti savo kelio, kovoti, kaip Vytauto Didžiojo laikais. Abiejų Tautų Respublikos sudarymas – tai Lietuvos pavertimas Lenkijos provincija, tai Lietuvos bajorų išdavystė. 1569 m. liepos 1-oji – Lietuvos žlugimo data. Juolab kad Žygimantas Augustas palaikė lenkų pusę. Tai Jogailaičių dinastijos mirtis. Man Lietuva tokia, kurioje, anot mūsų dainiaus Maironio,  „Vytautas Didis garsiai viešpatavo, ties Žalgiriu priešus nuveikęs piktus“.

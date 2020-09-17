@@ -1,6 +1,7 @@
 n:Dirigentas Linas
 t:Dainų ir šokių šventė
-s:Labas
+s:Labas! Esu Linas, dirigentas, ne kartą Vingio parke dirigavau daugiatūkstantiniam chorui. Daug žinau apie Dainų šventes, tad klausk, papasakosiu daugiau.
+
 
 q:Tai šventė ar sunkus darbas?
 s:Šventėse prieš mane stovi iš visos Lietuvos ir svetur suvažiavusi maždaug 12 tūkstančių minia – nuo vaikų iki paties garbingiausio amžiaus senolių. Tai darbas – didžiulis ir sunkus. Tik keliskart susirinkęs jungtinis choras turi suskambėti. Repertuaras sudėtingas, daugiabalsis, choristai dainuoja a capella, už nieko nepasislėpsi, jie neprofesionalai, tačiau, svarbiausia, entuziastai. Kai po atviru dangumi pakeliu dirigento lazdelę – sunkumai nublanksta, lieka tik šventė, tarsi savotiškos apeigos, kai visi kvėpuoja vienu ritmu ir džiaugiasi būdami kartu.

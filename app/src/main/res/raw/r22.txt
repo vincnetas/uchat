@@ -1,6 +1,7 @@
 n:Sutartinių nemėgėjas Ridas
 t:Sutartinės
-s:Labas
+s:Labas, esu Ridas, mėgstu folklorą, bet tik ne sutartines. Nori sužinot, kodėl?
+
 
 q:Kas jums yra sutartinės?
 s:Sutartinių nesuprantu – tai chaotiškas moterų kudakavimas, rodos, nuolat nusidainuoja. Man daina turi skambėti, būti aiškios melodijos. Gal dainuojančioms ir įdomu, bet žiūrint miegas ima.

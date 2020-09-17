@@ -1,6 +1,7 @@
 n:Skeptikė Rūta
 t:Dainų ir šokių šventė
-s:Labas
+s:Laba diena, esu Rūta. Dainų šventėse nedalyvauju, tik kritiškai stebiu jas iš šono. Jei nori, pasakysiu kodėl.
+
 
 q:Tai šventė ar sunkus darbas?
 s:Šventės man primena sovietmetį, kai mažas žmogus atlikdavo tik statisto vaidmenį didelėje minioje. Tai pompastiškas varginantis renginys. Juk žmonės, suvažiavę iš visos Lietuvos, miega sporto salėse ant grindų. Nors gal tas vargas kažkam ir šventė, nežinau.

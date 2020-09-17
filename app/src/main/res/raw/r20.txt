@@ -1,6 +1,7 @@
 n:Gitaristas Rokas
 t:Sutartinės
-s:Labas
+s:Labas! Mano vardas Rokas, prie sutartinių esu šiek tiek prisilietęs jas šiuolaikiškai interpretuodamas. Gal tau bus įdomus mano požiūris į šį archajišką reiškinį.
+
 
 q:Kas jums yra sutartinės?
 s:Sutartinės – kažkas magiško. Jos laikomos paradoksu: disonansinių intervalų – sekundų – sąskambiai sukuria harmoniją.

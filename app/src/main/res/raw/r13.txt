@@ -1,6 +1,7 @@
 n:Senjoras Antanas
 t:Dainų ir šokių šventė
-s:Labas
+s:Labų dienų! Esu Antanas, per savo ilgą gyvenimą dalyvavau keliolikoje Dainų švenčių, dabar jau tik per televizorių jas pasižiūriu. Daug prisimenu – klausk, viskų atsakysiu.
+
 
 q:Tai šventė ar sunkus darbas?
 s:Man 90 metų. Savo gyvenime nepraleidau nė vienos Dainų šventės. Dalyvavau kaip choristas, vėliau su ansambliu Folkloro dienoje. Kad šventė – vargas, niekada negalvojau. Visko buvo: ir nuo karščio leipom, ir sauso siūlo galo neradom. Būdavo gera kartu su ansambliečiais, pasipuošusiais tautiniais kostiumais, vaikščioti po Vilnių. Argi taip labai svarbu, jei košė neskani ar nepatogu miegoti? Paskaudės šonai ir praeis – anam svieti pailsėsim. Dabar šventes žiūriu per televizorių, niekad nepraleidžiu, kartais net ašarą nubraukiu.

@@ -1,6 +1,7 @@
 n:Mokinė Saulė
 t:Baltijos kelias
-s:Labas
+s:Labutis! Esu Saulė, dar mokinė, tad apie Baltijos kelią žinau tik iš mamos pasakojimų. Man tai labai svarbu, o žinai, kodėl?
+
 
 q:Kas jums yra / buvo Baltijos kelias?
 s:Mano mama dalyvavo, tada jai buvo tiek metų, kiek man dabar. Ji yra sakiusi, kad žiūrint vaizdo įrašus jai ašaros byra. To nesuprasdavau. Per Baltijos kelio 30-mečio minėjimą važiavome į Vilniaus Katedros aikštę, susikibome rankomis. Tada man daug kas paaiškėjo: ši pilietinė akcija buvo vienas iš svarbiausių žingsnių Nepriklausomybės link. Tos euforijos, bendrystės jausmo, apie kokį pasakojo mama, gal ir nepatyriau, tačiau man tai svarbu. Tai mūsų laisvės istorija.

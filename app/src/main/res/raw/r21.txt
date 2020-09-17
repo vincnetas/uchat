@@ -1,6 +1,7 @@
 n:Sutartinių tyrinėtoja Daiva
 t:Sutartinės
-s:Labas
+s:Sveiki! Esu Daiva, moksliškai tyrinėju sutartines, tad mielai tau šiek tiek papasakosiu, ką aš ir mano kolegos apie jas žinome.
+
 
 q:Kas jums yra sutartinės?
 s:Tai ne daina, o giesmė, todėl sakralu. Šis archajiškas reiškinys turi savitas ritmo formules, apeiginių savybių. Anot vienos garsiausių sutartinių tyrinėtojų profesorės Daivos Vyčinienės, sutartinės – senojo baltų tikėjimo apraiška.
