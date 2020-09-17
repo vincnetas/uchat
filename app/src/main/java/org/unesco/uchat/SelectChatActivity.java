@@ -3,6 +3,7 @@ package org.unesco.uchat;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,13 +17,18 @@ import java.io.InputStreamReader;
 
 public class SelectChatActivity extends AppCompatActivity {
 
+    private static int scrollPosition = 0;
+
     private LinearLayout personsLayout;
+
+    private HorizontalScrollView scrollSpace;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_select_chat);
         personsLayout = findViewById(R.id.persons);
+        scrollSpace = findViewById(R.id.scroll_space);
 
         try {
             for (int i = 1; i < 41; i++) {
@@ -41,6 +47,8 @@ public class SelectChatActivity extends AppCompatActivity {
                 psw.setOnClick(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
+                        scrollPosition = scrollSpace.getScrollX();
+
                         Intent intent = new Intent(SelectChatActivity.this, ChatActivity.class);
                         intent.putExtra("number", number);
                         startActivity(intent);
@@ -53,6 +61,14 @@ public class SelectChatActivity extends AppCompatActivity {
         } catch (IOException e) {
 
         }
+
+        scrollSpace.post(new Runnable() {
+            @Override
+            public void run() {
+                scrollSpace.setScrollX(scrollPosition);
+            }
+        });
+
     }
 
     private String findName(BufferedReader br) throws IOException {
@@ -69,11 +85,6 @@ public class SelectChatActivity extends AppCompatActivity {
 
     public void showNext(View view) {
         startActivity(new Intent(this, WellcomeActivity.class));
-    }
-
-    public void goChat(View view) {
-        startActivity(new Intent(this, ChatActivity.class));
-
     }
 
     @Override

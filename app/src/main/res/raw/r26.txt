@@ -3,7 +3,7 @@ t:Žuvintas
 s:Labas
 
 q:Kuo ypatingas Žuvinto rezervatas?
-s:Nesu ypatingo grožio, mažesnė ir už žvirblį... Ar lepi? – Turbūt, vaikelių melduose ir nendrėse neperėsiu – man reikia drėgnų žemapelkių ar pievų, viksvų. Gal todėl mūsų taip sumažėjo, kad visas galima suskaičiuoti. Pasaulyje perime vos 4 šalyse – Baltarusijoje, Ukrainoje, Lenkijoje, o dabar ir Lietuvoje. Žuvintas tapo mano naujaisiais namais – 2019-aisiais mūsų visą būrį (gal 50) atvežė iš Baltarusijos. Žuvintas man patiko, po žiemos iš Afrikos grįžome čia, į naujuosius namus, trumpiau sakant: „trrr, de-de-de-de, čr-črr-djudju, črrrr-didididi“. 
+s:Nesu ypatingo grožio, mažesnė ir už žvirblį... Ar lepi? – Turbūt, vaikelių melduose ir nendrėse neperėsiu – man reikia drėgnų žemapelkių ar pievų, viksvų. Gal todėl mūsų taip sumažėjo, kad visas galima suskaičiuoti. Pasaulyje perime vos 4 šalyse – Baltarusijoje, Ukrainoje, Lenkijoje, o dabar ir Lietuvoje. Žuvintas tapo mano naujaisiais namais – 2019-aisiais mūsų visą būrį (gal 50) atvežė iš Baltarusijos. Žuvintas man patiko, po žiemos iš Afrikos grįžome čia, į naujuosius namus, trumpiau sakant : „trrr, de-de-de-de, čr-črr-djudju, črrrr-didididi“.
 
 q:Kaip saugoma augalijos ir gyvūnijos įvairovė?
 s:Saugo mus čia ypatingai. Perkeliant, žinoma, nerimavom, bet kokių čia vietų randam lizdams sukti, o iki šienavimo spėjam ir vaikelius išperėti! Ne žmogaus bijom, bijom kanadinių audinių – jei tokios pasirodo, gero nelauk. Tačiau pastaraisiais metais jų sumažėjo, žmonės jas gaudo – mus saugo.
@@ -12,4 +12,4 @@ q:Kokia projekto, skirto meldinei nendrinukei, reikšmė?
 s:Esu rečiausias Europos giesmininkas, maždaug du šimtus kartų retesnis negu Afrikos dramblys. Džiaukitės manimi! 
 
 q:Ką bendro meldinės nendrinukės turi su vėliavomis? 
-s:Džiaugiuosi visomis vėliavomis – ypač tomis trimis spalvomis: geltona, žalia, raudona – nesvarbu, kaip išdėstytomis. Patinka ir ūkininkai, kurie kelia vėliavas mus pasitikdami. Žinau, kad mano giesmė paprastutė, bet ja dėkoju jums už rūpestį: „trrr, de-de-de-de, čr-črr-djudju, črrrr-didididi“.
+s:Džiaugiuosi visomis vėliavomis – ypač tomis trimis spalvomis : geltona, žalia, raudona – nesvarbu, kaip išdėstytomis. Patinka ir ūkininkai, kurie kelia vėliavas mus pasitikdami. Žinau, kad mano giesmė paprastutė, bet ja dėkoju jums už rūpestį: „trrr, de-de-de-de, čr-črr-djudju, črrrr-didididi“.
