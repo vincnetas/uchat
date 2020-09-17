@@ -1,0 +1,18 @@
+n:Karlas Frydrichas Teneris
+t:Struvės geodezinis lankas
+s:Labas
+
+q:Kas yra Struvės geodezinis lankas? 
+s:1816–1821 m. turėjau garbės projektuoti geodezinį lanką ir atlikti jo matavimus Vilniaus gubernijoje. Lietuvos teritorijoje iš viso buvo sudaryta 18 trianguliacijos punktų, iš kurių 3 šiandien yra paženklinti Meškonyse, Paliepiukuose (Vilniaus apskr.) ir Gireišiuose (Panevėžio apskr.). 
+
+q:Kaip buvo atliekami matavimai?
+s:Pastatydavome medinius bokštus, vietinių gyventojų vadinamus majakais (lietuviškai būtų ženklas / signalas), aukščio sulig bažnyčia. Jie buvo reikalingi tam, kad besidarbuojantieji į viršų galėtų užsikelti prietaisus. Turėdavo būti trys viršūnės (punktai). Buvo matuojami posūkio kampai tarp matomų trianguliacijos bokštų bei fiksuojamas astronominis azimutas.
+
+q:Kokių kliūčių būta atliekant darbus? 
+s:Buvo daug įvairių kliūčių. Didžiausios jų: nebuvo tinkamų matavimo prietaisų ir bendrų matavimo metodų. Todėl kiekvienoje ekspedicijoje teko nuolat tobulinti matavimo būdus, čia pat kurti naujus prietaisus ir juos pritaikyti praktiškai. 
+
+q:Tai galima laikyti tarptautinio bendradarbiavimo pavyzdžiu? 
+s:Šis mokslinis tyrimas yra išskirtinis žmogiškųjų vertybių mainų, vykusių bendradarbiaujant įvairių šalių mokslininkams, pavyzdys. Štai mano kolega Juozapas Chodzka svarbiausius darbus atliko matuodamas trianguliacijos grandinę tarp Pandėlio (Lietuva) (šio trikampio išlikęs ir saugomas jau minėtas Gireišių punktas) ir Bristeno (Latvija). 1829 m. sujungę atkarpos mano tyrinėtoje Vilniaus gubernijoje, profesoriaus Struvės Estijos ir Latvijos teritorijų trianguliacijos tinklų fragmentų matavimo rezultatus, galėjome kalbėti apie tikslius galutinius. Nebendradarbiaujant toks darbas būtų buvęs neįmanomas.
+
+q:Kuo reikšmingas Struvės geodezinis lankas? 
+s:Mūsų laikais tai buvo tiksliausiai išmatuotas ir ilgiausias dienovidinio lankas. Kaip skruzdėlės lipdėme kilometrą po kilometro. Tai, kad matavimo rezultatais žemėlapiuose taikant Žemės elipsoidų parametrus ir kartografines projekcijas naudotasi visą šimtmetį, byloja apie mūsų darbo svarbą ir naudą. 

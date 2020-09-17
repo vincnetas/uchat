@@ -1,0 +1,15 @@
+n:Geodezijos instituto darbuotojas Leonas
+t:Struvės geodezinis lankas
+s:Labas
+
+q:Kas yra Struvės geodezinis lankas? 
+s:Jūs tik įsivaizduokite: XIX a. tai buvo tiksliausiai išmatuotas ir ilgiausias dienovidinio lankas, kurio matavimo rezultatais naudotasi ištisą šimtmetį. Mums, geodezininkams, – tai geodezijos mokslo istorija, moksliniai atradimai, kuriais remiamės iki šiol. Deja, Lietuvoje retas žino, kad Struvės geodezinis lankas yra vienas iš keturių mūsų valstybės teritorijoje esančių tarptautiniu lygiu pripažintų paveldo vertybių, greta Vilniaus istorinio centro, Kuršių nerijos ir Kernavės archeologinės vietovės. Lietuvoje įamžinti trys geodeziniai punktai. Tose vietose dabar stovi informacinės lentos, skiriamieji ženklai. Mūsų dienomis iš viso yra pažymėti 34 geodezinio lanko punktai: Norvegijoje – 4, Švedijoje – 4, Suomijoje – 6, Rusijoje – 2, Estijoje – 3, Latvijoje – 2, Lietuvoje – 3, Baltarusijoje – 5, Moldovoje – 1, Ukrainoje – 4. Visi jie paženklinti UNESCO logotipu granitiniuose stulpuose.
+
+q:Kaip buvo atliekami matavimai?
+s:Matavimams pasitelktų trikampių viršūnės ir yra specialiais ženklais įamžinti Struvės geodezinio lanko punktai. Jie laikomi nekilnojama materialia šios matavimo technologijos dalimi. Anksčiau Lietuvoje kiekvienas Struvės dienovidinio lanko geodezinis punktas, parinktas aukščiausiose vietovės vietose, žemės paviršiuje buvo įtvirtintas stabiliu ženklu iš akmenų, sulipdytų kalkėmis, su švinu išlieta žyme.  Skandinavijoje būdavo ant uolos iškalta skylutė arba įbrėžtas kryžius.
+
+q:Tai galima laikyti tarptautinio bendradarbiavimo pavyzdžiu? 
+s:Žiūrint iš 200 metų perspektyvos, galima drąsiai teigti, kad Struvės geodezinio lanko darbams atlikti buvo surinkti geriausi kiekvieno krašto mokslininkai, bendradarbiaujant, dalinantis patirtimi nuolat tobulinamos astronominių ir geodezinių matavimų technologijos, kuriamos observatorijos. Dėl to tobulėjo universitetai, mokslas sparčiai žengė į priekį. Tai tyrimai, kurių neribojo valstybės sienos. 
+
+q:Kuo reikšmingas Struvės geodezinis lankas? 
+s:Nors plika akimi lankas nematomas – jį galima įsivaizduoti tik ant Žemės rutulio, bet vertas pasaulinio pripažinimo, juk pasitelkus jį tiksliausiai nustatyti mūsų planetos parametrai, kas leido sudaryti tikslius žemėlapius. Tuo metu tai prilygo astronomijos ir geodezijos mokslų kultūrinei ir techninei revoliucijai. Tai svarbus žingsnis pasaulinėje Žemės mokslų ir topografinio kartografavimo, kurio neriboja valstybių sienos, raidoje.

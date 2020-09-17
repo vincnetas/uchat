@@ -1,0 +1,10 @@
+n:Skeptikė Rūta
+t:Dainų ir šokių šventė
+s:Labas
+
+q:Tai šventė ar sunkus darbas?
+s:Šventės man primena sovietmetį, kai mažas žmogus atlikdavo tik statisto vaidmenį didelėje minioje. Tai pompastiškas varginantis renginys. Juk žmonės, suvažiavę iš visos Lietuvos, miega sporto salėse ant grindų. Nors gal tas vargas kažkam ir šventė, nežinau.
+
+q:Ar kinta švenčių repertuaras?
+s:Sveikintina, kad Dainų šventės pasipildė Folkloro diena, senukams yra kuo pasidžiaugti. Tačiau organizatoriai, galvodami apie Dainų dienos repertuarą, turėtų pasistengti ir ieškoti naujesnių kūrinių ir formų. Šokių dienos merginos šiais laikais dirbtinėmis kasomis ir su klumpėmis kelia šypseną, tai panašu į masinį farsą. Reiktų šiuolaikiškesnės choreografijos. Įžvelgiu per daug imitacijos.
+

@@ -1,0 +1,19 @@
+n:Gamtininkas Jonas
+t:Žuvintas
+s:Labas
+
+q:Kuo ypatingas Žuvinto rezervatas?
+s:Žuvinto rezervatas yra lyg gyvas, pulsuojantis organizmas. Dirbu čia jau septintus metus, bet jo gausinga neliesta gamta mane iki šiol stebina. Žuvinto vardą, žinia, labiausiai garsina paukščiai, tačiau jame prieglobstį randa ir daug kitų nykstančių gyvūnų bei augalų rūšių. Šlapiose Žuvinto pievose peri vienas rečiausių Europoje paukščių giesmininkų – meldinė nendrinukė. 
+
+q:Kaip saugoma augalijos ir gyvūnijos įvairovė?
+s:Daug paukščių buveinių nyksta dėl ūkininkavimo, pelkių drenažo, tačiau griežtas veiklų draudimas Žuvintui būtų pragaištingas. Sovietmečiu manyta, kad žmogaus nereikia leisti į draustinį, tačiau gamtai reikalinga natūrali žmogaus veikla. Neganomos, nešienaujamos pievos ir pelkės sparčiai apauga krūmynais, mažuosius paukštelius iš jų perimviečių išstumia kiti, prie didesnių augalų geriau prisitaikę, todėl svarbu atkurti užliejamąsias pievas, taip išsaugant griežlių, švygždų buveines, tetervinų maitinimosi vietas. Žuvintas – tarsi interaktyvi laboratorija, kur gamtosaugininkai, mokslininkai, vietos bendruomenė kartu ieško visą aplinką puoselėjančių sprendimų.
+
+q:Koks pastarųjų metų reikšmingiausias projektas?
+s:Naujausias unikalus projektas, vykstantis Žuvinte jau pora metų, yra meldinės nendrinukės atkėlimas. Žuvinte jų populiacija nunyko, todėl buvo sugalvota atkelti jų iš kitų vietovių. Dabar jau galime pasidžiaugti, kad pirmosios 2018 m. iš Baltarusijos atvežtos nendrinukės Lietuvą laiko savais namais ir pavasarį grįžta būtent čia. 
+
+q:Kokia projekto, skirto meldinei nendrinukei, reikšmė? 
+s:Projekto reikšmė kur kas platesnė – kur aptinkama meldinė nendrinukė, ten yra ir ypatingų, o kartu ir retų augalų bei gyvūnų rūšių. Rūšys nyksta ne po vieną, tad saugant nendriniukę, saugomas visas kompleksas, visas Žuvinto biosferos rezervatas. Žinoma, kas nors galėtų priekaištauti, kad tiek daug pastangų ir pinigų skiriama vienam paukšteliui išsaugoti, tačiau veikla ilgalaikė, naudinga ne tik visam rezervatui, o ir labai svarbi simboliškai – kaip viltinga galimybė atkurti žmogaus suniokotą gamtinę pusiausvyrą.
+
+q:Ką bendro meldinės nendrinukės turi su vėliavomis? 
+s:Naujausiais duomenimis, meldinės nendrinukės žiemoti skrenda dar toliau, negu buvo manyta, – net iki Malio. Malonus sutapimas, kad Malio vėliavos spalvos – tokios pat kaip Lietuvos. 
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <ImageView
+        android:id="@+id/characterIcon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/per_01" />
+
+    <TextView
+        android:id="@+id/answerText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/rounded_button_chat"
+        android:fontFamily="@font/poppins"
+        android:paddingLeft="16dp"
+        android:paddingTop="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp"
+        android:text="Dainų dienoje dalyvavau jau dukart ir labai laukiu kitos šventės. Paprastai maždaug prieš pusantrų metų pradedame repetuoti repertuaro dainas – ir visas kolektyvas, ir grupėmis „šlifuojame“. Darbo daug, tačiau mintis, kad važiuosime į Vilnių, džiugina. Būsime didžiulio choro dalis, dalyvausime eisenoje, jausimės lietuviai. Jei neįdėtume darbo, gal ir nepajusčiau tikros šventės. "
+        android:textColor="@color/colorDarkFont"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/characterIcon"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

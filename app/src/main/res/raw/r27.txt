@@ -1,0 +1,15 @@
+n:Paveldosaugininkas Gediminas
+t:Vilnius
+s:Labas
+
+q:Kuo unikalus Vilniaus senamiestis? 
+s:1323 m. kunigaikštis Gediminas laiškais į Vilnių kvietė atvykti ir čia įsikurti amatininkus, pirklius ir vienuolius iš Vakarų Europos. Jis rūpinosi, kad miestas klestėtų. Beje, kadangi esame bendravardžiai, matyt, kito pasirinkimo neturėjau – privalau rūpintis šiuo miestu su derama pagarba ir tolerancija buvusioms epochoms. O kalbant apie Vilniaus senamiestį, pirmiausia į galvą ateina žodis „organiškas“, nes miesto struktūra formavosi taikydamasi prie reljefo. Jame išsaugota pastatų ir stilių įvairovė, urbanistinė sandara liudija turtingą mūsų istorinę, kultūrinę patirtį. Prie Vilniaus augimo prisidėjo lietuviai ir kitos savitų kalbų, religijų ir kultūrų Lietuvos Didžiosios Kunigaikštystės tautos. Būta ir skaudžių praradimų – Žemutinės pilies, Vokiečių gatvės ir kitų vietų užstatymo sunaikinimas, tačiau Vilniaus istorinis centras įvardijamas kaip vienas didžiausių senamiesčių Rytų Europoje – 352 ha plote išsidėstę 112 istorinių kvartalų. 
+
+q:Kuo ypatinga senamiesčio architektūra? 
+s:Galėtume pajuokauti, kad Vilnių architektūros mados pasiekdavo kiek vėluodamos, tačiau tai ir formavo jo unikalumą. Senamiestyje nėra nė vieno gryno pastato, kuris būtų be kitų architektūros stilių įtakos. Gotika, renesansas, barokas, klasicizmas – tai architektūros mados, kurios keitėsi cikliškai, paliko savo pėdsakų miesto veide. 
+
+q:Kas formavo Vilniaus senamiestį?
+s:Miestą skaitau kaip istorijos vadovėlį. Vilniaus širdis – Katedros aikštė mena pačius seniausius laikus. Anot archeologų, čia jau prieš 3 000 metų būta gyvenvietės, stovėjusi pagoniška šventykla, o jos vietoje vėliau buvo pastatyta pirmoji katalikų bažnyčia – Katedra. Manoma, kad po Mindaugo mirties (1263) ji buvo vėl pertvarkyta į pagonišką šventyklą. 1387 m., Lietuvai priimant krikštą, Jogailos pavedimu pagoniškos šventyklos vietoje Katedra buvo atstatyta. Manau, tai iškalbingai liudija, kad miestą formavo religinių konfesijų kaita, kultūrinės įtakos, šalies politika. Po trečiojo Abiejų Tautų Respublikos padalijimo didžioji dalis Lietuvos buvo prijungta prie Rusijos imperijos ir tapo Šiaurės Vakarų kraštu, o Vilnius – jo centru. Didžiausia to laikotarpio netektis – Valdovų rūmų sunaikinimas. Tada pakeista didelės dalies pastatų paskirtis – katalikiškos bažnyčios, vienuolijos virto stačiatikiškomis. Laimė, ne visada užmojai buvo įgyvendinti, pavyzdžiui, sovietmečiu nenutiestas platus bulvaras, išgriaunant Aušros vartus ir Šv. Kotrynos bažnyčią. Deja, per amžius buvo ir griovimų, ir negandų bei stichijų: gaisrų, karų, potvynių. Tai irgi Vilnių formavo ir keitė, tačiau pati jo struktūra nekito. Juk sakoma, kad nepalūžę tampa tvirtesni.  
+
+q:Ko palinkėtumėte Vilniui?
+s:Palinkėsiu sau, taip pat visiems vilniečiams ir toliau kurti Vilnių, siekiant žmonių kūrybinių idėjų ir architektūros darnių sąskambių, netrikdant jo organiško kvėpavimo. 

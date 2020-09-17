@@ -1,0 +1,16 @@
+n:Senjoras Antanas
+t:Dainų ir šokių šventė
+s:Labas
+
+q:Tai šventė ar sunkus darbas?
+s:Man 90 metų. Savo gyvenime nepraleidau nė vienos Dainų šventės. Dalyvavau kaip choristas, vėliau su ansambliu Folkloro dienoje. Kad šventė – vargas, niekada negalvojau. Visko buvo: ir nuo karščio leipom, ir sauso siūlo galo neradom. Būdavo gera kartu su ansambliečiais, pasipuošusiais tautiniais kostiumais, vaikščioti po Vilnių. Argi taip labai svarbu, jei košė neskani ar nepatogu miegoti? Paskaudės šonai ir praeis – anam svieti pailsėsim. Dabar šventes žiūriu per televizorių, niekad nepraleidžiu, kartais net ašarą nubraukiu.
+
+q:Ar svarbus tautinis kostiumas / koncertinis rūbas šventėse?
+s:Mūsų ansambliui rūbus specialiai audė, bet mūsų moterys pačios juos puošė: nėrė nėrinius, mezgė riešines, siuvinėjo, aš net auksinį laikrodį ant grandinėlės prisisegiau, nesvarbu, kad nebeveikiantį, bet dar mano tėvuko nešiotą, Smetonos laikų. Su tautiniais kostiumais visi gražesni ir jaunesni atrodo.
+
+q:Ar aplanko bendrumo jausmas?
+s:Folkloro dieną koncertuoti Bernardinų sode susirenka įvairių kartų žmonės iš visų Lietuvos regionų. Smagu, kai kartu mažiukas, jaunas, vyresnis ir jau senukas dainuoja, sukasi ratelyje ar trypia polką. Žmonės prieina, paklausia, iš kokio krašto esi, kartais sava tarme kraštiečiai užkalbina. Nors ir seniai iš mūsų apylinkių išvažiavusiems gera būdavo mūsiškai pasišnekučiuoti, dainą kartu užtraukti ar senus laikus prisiminti.
+
+q:Ar kinta švenčių repertuaras?
+s:Buvo visko: ir apie Leniną dainavom, ir „šviesų rytojų“ garbinom. Bet visi tada supratom, kad reikia dešimt svetimų privalomų dainų sudainuoti, kad vieną širdžiai mielą galėtum užtraukti ir viltį pajusti. Atsimenu tą jausmą, kai sovietmečiu giedodavom „Lietuva brangi“. Net kvapą, rodos, užimdavo. O dukra, grįžusi iš studijų, pasakojo, kaip studentų dainų šventėje „Gaudeamus“ trispalvę iškeltą pamatė – įsižiebė viltis, kad gal pagaliau būsime laisvi. „Sąjūdžio“ laikais per Dainų šventes visa Lietuva dainavo, dainuojanti revoliucija buvo.
+

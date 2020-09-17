@@ -1,0 +1,15 @@
+n:Turistas Jarek 
+t:Vilnius
+s:Labas
+
+q:Kuo unikalus Vilniaus senamiestis? 
+s:Vilniuje lankausi jau trečią kartą, esu iš Lenkijos. Pamenu, pirmąkart atvykus čia bene didžiausią įspūdį padarė Abiejų Tautų Respublikos laikų palikimas mieste. Tai mokslo šventovė Vilniaus universitetas, barokinių bažnyčių siluetai, didikų Tyzenhauzų, Pacų ir Tiškevičių rūmai ir, žinoma, Aušros vartai, kur kaskart apsilankęs Švč. Mergelės Marijos paprašau malonių. 
+
+q:Kuo ypatinga senamiesčio architektūra? 
+s:Vilnius – lyg geras šokių vakarėlis, kur įvairius ratelius šoka architektūriniai ansambliai: Pilis su Katedra; Bernardinų – su Šv. Onos, Šv. Mykolo, Švč. Mergelės Marijos bažnyčiomis; Šv. Jonų bažnyčia – su universitetu, prezidentūra. Linksmybės, kad net galva gali apsisukti. 
+
+q:Kas formavo Vilniaus senamiestį?
+s:Lietuvos ir Lenkijos bendrystė turėjo didelę įtaką kultūrinei pažangai. Įžvelgiu daug Krokuvos ir Vilniaus senamiesčių panašumų. Mes turime daugiau jungiančių, pažangių dalykų nei priešinančių ir skiriančių. 
+
+q:Ko palinkėtumėte Vilniui?
+s:Vilniui linkiu išsaugoti savo unikalumą. Saugodami savo šalių kultūrinį, architektūrinį paveldą, turtiname vieni kitus. Tikrai čia dar atvyksiu ne kartą. 

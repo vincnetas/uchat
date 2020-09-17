@@ -1,0 +1,15 @@
+n:Dirigentas Linas
+t:Dainų ir šokių šventė
+s:Labas
+
+q:Tai šventė ar sunkus darbas?
+s:Šventėse prieš mane stovi iš visos Lietuvos ir svetur suvažiavusi maždaug 12 tūkstančių minia – nuo vaikų iki paties garbingiausio amžiaus senolių. Tai darbas – didžiulis ir sunkus. Tik keliskart susirinkęs jungtinis choras turi suskambėti. Repertuaras sudėtingas, daugiabalsis, choristai dainuoja a capella, už nieko nepasislėpsi, jie neprofesionalai, tačiau, svarbiausia, entuziastai. Kai po atviru dangumi pakeliu dirigento lazdelę – sunkumai nublanksta, lieka tik šventė, tarsi savotiškos apeigos, kai visi kvėpuoja vienu ritmu ir džiaugiasi būdami kartu.
+
+q:Ar aplanko bendrumo jausmas?
+s:Niekad nepamiršiu, kai pirmą kartą dirigavau Dainų šventėje prieš daugiatūkstantinę minią dalyvių ir žiūrovų. Giedant „Lietuva brangi“ ne tik choristai, bet ir žiūrovai atsistojo, dainavo kartu, tad dirigavau visam Vingio parkui. Tai ne paprastas koncertas, o visuotinė šventė, tam tikras ritualas, skirtas Lietuvai. Ąžuolų vainikai, skirti dirigentams, ir mūsų „skrydžiai“ ore po šventės taip pat yra bendrumo, draugystės ir dėkingumo išraiška, tai nepamirštama.
+
+q:Ar kinta švenčių repertuaras?
+s:Jaunimas su malonumu dainuoja lietuvių liaudies dainas, tačiau manau, kad šiuolaikinės kompozicijos ir populiarioji muzika taip pat labai svarbu. Reikia ieškoti protingo kompromiso tarp duoklės tradicijai ir šiuolaikiškumo. Laisvoje šalyje iš širdies gali sudainuoti tik tai, kas tave šiandien jaudina, ką supranti.
+
+
+

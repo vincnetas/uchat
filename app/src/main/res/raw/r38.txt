@@ -1,0 +1,18 @@
+n:Vilhelmas Struvė
+Struvės geodezinis lankas
+s:Labas
+
+q:Kas yra Struvės geodezinis lankas? 
+s:Gyvenau prieš 200 metų. Apie mokslą daug ko nežinojome, o ir prietaisus turėjome išrasti patys. Tuo ir įdomus XIX amžius. Jums, XXI a. žmonėms, beveik viskas patogiai paduota, suskaičiuota. Pasaulis tapo mažas – net nereikia išeiti iš kambario, kad galėtumėte jį pažinti ir susisiekti su atokiausiais kraštais. O mums pasaulis buvo neaprėpiamas, viliojantis atrasti. Štai mane sudomino Izaoko Niutono netaisyklingos Žemės rutulio formos teorija ir paskatino ieškoti, kaip kuo tiksliau apskaičiuoti planetos parametrus. 1816 m. sukūriau metodiką dienovidiniam lankui išmatuoti. Tam pasitelkiau trikampių (trianguliacijos) grandinę. Įsivaizduokite žemėlapį nuo Dunojaus iki Norvegijos šiaurės, apipaišytą 258 trikampiais su specialiais ženklais įtvirtintomis viršūnėmis. Dabar sakytumėte – puikus grafinis darbas, bet tie trikampiai padėjo mums nustatyti Žemės dydį ir formą. Dirbau ne vienas, tačiau šis daugiašalis mokslinis projektas buvo pavadintas mano vardu. Ačiū už įamžinimą. 
+
+q:Kaip buvo atliekami matavimai?
+s:Virš kiekvieno punkto buvo sukonstruotas medinis trianguliacijos bokštas (iki 50 m aukščio), iš kurio buvo matuojami kampai. Panašiai kas 200 km dar buvo įrengtos vadinamosios bazės, kuriose tiksliai buvo nustatomas atstumas tarp kraštinių. Dauguma matavimų buvo atliekama naktimis, ant aukštų bokštų viršūnių pasišviečiant žibintais. Radijų ar telefonų tais laikais nebuvo, tad siekiant suderinti azimuto nustatymo laiką buvo sprogdinamos parako statinės. Aplinkiniams žmonėms tikrai neleisdavome išsimiegoti. Koks miegas, kai atliekami tokie svarbūs moksliniai atradimai! 
+
+q:Kokių kliūčių būta atliekant darbus? 
+s:Atliekant matavimus per Baltijos jūrą ir Suomijoje buvo labai atšiaurios žiemiškos sąlygos, trūko maisto ir amunicijos, labai sunkiai sekėsi įžiūrėti švyturius, tad matavimus teko daug kartų kartoti sulaukus geresnių orų. Bendrai kalbant, tai buvo mano viso gyvenimo darbas, trukęs 36 metus (pradėjome 1818, baigėme 1852). 
+
+q:Tai galima laikyti tarptautinio bendradarbiavimo pavyzdžiu? 
+s:Be abejo, tokių tikslių matavimo rezultatų nebūtume pasiekę be įvairių šalių kolegų mokslininkų bendradarbiavimo, taip pat monarchų finansinės paramos. Viskas daryta dėl pažangos. 
+
+q:Kuo reikšmingas Struvės geodezinis lankas? 
+s:Savo tikslą pasiekėme – kaip įmanoma tiksliau ištyrėme ir nustatėme Žemės planetos dydį ir formą. Grandinė driekiasi 2 820 km nuo Hamerfesto (Norvegija) iki Juodosios jūros ir kerta 10 šalių: Norvegiją, Švediją, Suomiją, Rusiją, Estiją, Latviją, Lietuvą, Baltarusiją, Moldovą, Ukrainą. Trianguliacijos tinklų fragmentų matavimo rezultatus susisteminau ir aprašiau darbe „Arc du Méridien de 25°20'“. Net geriausiame sapne negalėjau susapnuoti, kad mano darbai duos tokių puikių rezultatų ir įkvėps mokslą tolesniems tyrinėjimams, juk remdamasis šiuo mano veikalu 1888 m. Žemės dienovidinio ilgį apskaičiavo geodezininkas Akselis Bonsdorfas.  

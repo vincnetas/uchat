@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#373f82</color>
+    <color name="colorLightFont">#EAEFD8</color>
+    <color name="colorDarkFont">#1f265c</color>
+    <color name="colorSubFont">#BBB3A7</color>
+    <color name="colorButton">#E7EBF1</color>
+    <color name="colorChatBackground">#EBEFF4</color>
+    <color name="colorPrimaryButton">#373f82</color>
+    <color name="colorPaleFont">#A1A4C1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorChatMeBubble">#EEF2F7</color>
+    <color name="colorMyIcon">#E98A47</color>
+</resources>

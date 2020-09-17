@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.unesco.uchat">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".CharacterInfoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme"></activity>
+        <activity
+            android:name=".PastChatsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".EndChatActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".ChatActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".SelectChatActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".WellcomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".LandingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".EnterNameActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".Onboarding03"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".Onboarding02"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".Onboarding01"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+    </application>
+
+</manifest>

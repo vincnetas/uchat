@@ -1,0 +1,10 @@
+n:Choreografas Vidmantas
+t:Dainų ir šokių šventė
+s:Labas
+
+q:Tai šventė ar sunkus darbas?
+s:Nors po generalinių repeticijų grįžti išsekęs, be balso, vis tiek galvoji, ką reikėjo padaryti kitaip, o gal net iš naujo perdėlioti šokio piešinį. Tačiau kai įvairiausio amžiaus šokėjai, pasipuošę tautiniais drabužiais, išeina į stadioną ir puikiai sušoka sudėtingas kompozicijas, lyjant lietui ar kepinant saulei, esi toks pat laimingas, kaip ir jie.
+
+q:Ar aplanko bendrumo jausmas?
+s:Be bendrystės neapsieisi. Mes, stilizuoto liaudies šokio profesionalai, galime sukurti puikiausias kompozicijas, tačiau galutinis rezultatas – daugybės žmonių – kūrėjų, organizatorių, atlikėjų – darbas. Šokių diena mėgstama dėl spalvingumo, tautinių kostiumų ir sudėtingų stadiono aikštėje šokėjų „piešiamų“ kompozicijų. Tada visi patiria džiaugsmą, nuostabą, euforiją – juk mes kartu tai sukūrėme. Šventės pilnatvei taip pat būtina žiūrovų reakcija. Nepaprastas vienybės ir dėkingumo jausmas, kai šventei pasibaigus kūrėjai apdovanojami ąžuolų vainikais, o šokėjai skraidina ore savo vadovus.
+
