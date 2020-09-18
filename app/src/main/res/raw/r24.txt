@@ -1,6 +1,6 @@
 n:Gamtininkas Jonas
 t:Žuvintas
-s:Labas
+s:Sveiki! Esu gamtininkas Jonas, dirbu Žuvinto rezervate. Ar žinai, kodėl Žuvinto ežerą mėgsta paukščiai ir kaip jiems netrukdyti? Papasakosiu.
 
 q:Kuo ypatingas Žuvinto rezervatas?
 s:Žuvinto rezervatas yra lyg gyvas, pulsuojantis organizmas. Dirbu čia jau septintus metus, bet jo gausinga neliesta gamta mane iki šiol stebina. Žuvinto vardą, žinia, labiausiai garsina paukščiai, tačiau jame prieglobstį randa ir daug kitų nykstančių gyvūnų bei augalų rūšių. Šlapiose Žuvinto pievose peri vienas rečiausių Europoje paukščių giesmininkų – meldinė nendrinukė. 

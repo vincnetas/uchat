@@ -1,6 +1,6 @@
 n:Turistas Jarek 
 t:Vilnius
-s:Labas
+s:Cześć! Esu Jarek iš kaimyninės Lenkijos. Mėgstu lankytis Vilniuje. Nori sužinoti, kas čia mane traukia?
 
 q:Kuo unikalus Vilniaus senamiestis? 
 s:Vilniuje lankausi jau trečią kartą, esu iš Lenkijos. Pamenu, pirmąkart atvykus čia bene didžiausią įspūdį padarė Abiejų Tautų Respublikos laikų palikimas mieste. Tai mokslo šventovė Vilniaus universitetas, barokinių bažnyčių siluetai, didikų Tyzenhauzų, Pacų ir Tiškevičių rūmai ir, žinoma, Aušros vartai, kur kaskart apsilankęs Švč. Mergelės Marijos paprašau malonių. 

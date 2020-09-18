@@ -1,6 +1,6 @@
 n:Neopagonis Ąžuolas 
 t:Kernavė
-s:Labas
+s:Labas, esu gamtiškojo tikėjimo atstovas, ir vardas mano gamtiškas – Ąžuolas. Kernavė mano tikėjimui labai svarbi vieta. Jei įdomu, pasidalinsiu savo pasirinkimu ir mąstymu apie tai.
 
 q:Kuo ypatinga Kernavė? 
 s:Žvelgdami į Kernavės istoriją, galime panirti į priešistorinius laikus (juk ši vietovė liudija maždaug 11 tūkst. metų nenutrūkstamą žmonių gyvavimo raidą), suprasti, kuo gyveno mūsų protėviai, susipažinti su jų gamtiškąja pasaulėžiūra. Žinoma, į tokį senąjį tikėjimą, koks buvo, nebegrįšime, bet svarbu išsaugoti natūralią dvasinę aplinką, per šimtmečius suformuotą mus supančios gamtos ir jos reiškinių. Kernavė – pagoniškojo tikėjimo liudytoja. Nors archeologai teigia, kad konkrečios pagoniškos šventovės vietos taip ir nerado, tačiau juk ne vien žemėje glūdi atsakymai – reikia pakelti galvą ir pajusti dvasinę energiją, suvokti perduodamą tradiciją. Darnioje Kernavės piliakalnių visumoje galima rasti pagonybės ženklų, pavyzdžiui, pavadinimai – Aukuro kalnas, Lizdeikos kalnas – yra pagoniškų apeigų liudytojai. Na gerai, nesiginčysiu – esu skaitęs, kad kai kurie pavadinimai atsirado vėlesniais amžiais – romantikai sugalvojo. Tad šioje vietoje žmonės natūraliai linksta prie pagoniškos tradicijos. 
@@ -8,7 +8,7 @@ s:Žvelgdami į Kernavės istoriją, galime panirti į priešistorinius laikus (
 q:Ar galėtume Kernavę vadinti lietuviškąja Troja? 
 s:Taip, Troja – čia po sąnašų sluoksniu slypi paskutinės Europoje pagoniškos valstybės kultūrinis palikimas ir besiskverbiančios krikščionybės liudijimai. Įdomu tai, kad žmonės čia gyveno ne pagal tautybes, o pagal religines konfesijas. Skirtingos laidojimo tradicijos, pomirtinio pasaulio samprata rodo buvus įvairią bendruomenę. Kiek žinau, Kernavės kapinynuose randama tuo pačiu laikotarpiu ir pagal krikščioniškąsias, ir pagal pagoniškąsias tradicijas palaidotų žmonių palaikų. Tačiau, tvirtinčiau, kad pagonybė daug ilgiau išliko žmonių sąmonėje (ji gaji iki mūsų dienų), negu rodo archeologiniai radiniai. Juk ir liaudies dainose labai nedaug krikščionybės. Taigi, Troją galime atkasti ir savo kolektyvinėje pasąmonėje. 
 
-q: Kernavės ištyrinėta apie vieną procentą – tai daug ar mažai? 
+q:Kernavės ištyrinėta apie vieną procentą – tai daug ar mažai?
 s:Turime džiaugtis, kad archeologų ištyrinėtas tik procentas, nes archeologas – pagrindinis destruktorius. Šitaip suardoma vietovės aura, kuri formavosi tūkstantmečius. 
 
 q:Kokie žmonės čia gyveno viduramžiais? 

@@ -1,6 +1,6 @@
 n:Vilhelmas Struvė
 Struvės geodezinis lankas
-s:Labas
+s:Gerbiamasis, esu profesorius, pavarde Struvė. Sukūriau metodiką dienovidiniam lankui išmatuoti. Kas tai ir kam to reikėjo, tuoj viską išdėstysiu.
 
 q:Kas yra Struvės geodezinis lankas? 
 s:Gyvenau prieš 200 metų. Apie mokslą daug ko nežinojome, o ir prietaisus turėjome išrasti patys. Tuo ir įdomus XIX amžius. Jums, XXI a. žmonėms, beveik viskas patogiai paduota, suskaičiuota. Pasaulis tapo mažas – net nereikia išeiti iš kambario, kad galėtumėte jį pažinti ir susisiekti su atokiausiais kraštais. O mums pasaulis buvo neaprėpiamas, viliojantis atrasti. Štai mane sudomino Izaoko Niutono netaisyklingos Žemės rutulio formos teorija ir paskatino ieškoti, kaip kuo tiksliau apskaičiuoti planetos parametrus. 1816 m. sukūriau metodiką dienovidiniam lankui išmatuoti. Tam pasitelkiau trikampių (trianguliacijos) grandinę. Įsivaizduokite žemėlapį nuo Dunojaus iki Norvegijos šiaurės, apipaišytą 258 trikampiais su specialiais ženklais įtvirtintomis viršūnėmis. Dabar sakytumėte – puikus grafinis darbas, bet tie trikampiai padėjo mums nustatyti Žemės dydį ir formą. Dirbau ne vienas, tačiau šis daugiašalis mokslinis projektas buvo pavadintas mano vardu. Ačiū už įamžinimą. 
