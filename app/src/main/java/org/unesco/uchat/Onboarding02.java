@@ -31,7 +31,7 @@ public class Onboarding02 extends AppCompatActivity {
 
         List<Map<String, String>> groupData = new ArrayList<Map<String, String>>() {{
             add(new HashMap<String, String>() {{
-                put("ROOT_NAME", "Lietuvos vertybės");
+                put("ROOT_NAME", "Lietuvos vietovės");
             }});
             add(new HashMap<String, String>() {{
                 put("ROOT_NAME", "Lietuvos tradicijos");
@@ -67,7 +67,7 @@ public class Onboarding02 extends AppCompatActivity {
                 put("CHILD_NAME", "Kryždirbystė ir jos simbolika Lietuvoje");
             }});
             add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Tryjų Batijos valstybių Dainų ir šokių tradicija");
+                put("CHILD_NAME", "Trijų Batijos valstybių Dainų ir šokių tradicija");
             }});
             add(new HashMap<String, String>() {{
                 put("CHILD_NAME", "Sutartinės, daugiabalsės lietuvių dainos");
