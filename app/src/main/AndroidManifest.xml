@@ -57,6 +57,14 @@
             android:screenOrientation="portrait"
             android:theme="@style/noAnimTheme" />
         <activity
+            android:name=".HeritageSitesActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
+            android:name=".ByeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/noAnimTheme" />
+        <activity
             android:name=".Onboarding01"
             android:screenOrientation="portrait"
             android:theme="@style/noAnimTheme" />

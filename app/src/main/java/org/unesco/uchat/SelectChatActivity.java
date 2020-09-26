@@ -43,7 +43,11 @@ public class SelectChatActivity extends AppCompatActivity {
                 int iconId = getResources().getIdentifier("drawable/per_" + number, null, getPackageName());
                 PersonSelectView psw = new PersonSelectView(this);
                 psw.setFace(iconId);
+
+                // Danger following two calls should be merged to one function
                 psw.setName(findName(br));
+                psw.setLocation(findLocation(br));
+
                 psw.setOnClick(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
@@ -76,6 +80,18 @@ public class SelectChatActivity extends AppCompatActivity {
         String line;
         while ((line = br.readLine()) != null) {
             if (line.indexOf("n:") != -1) {
+                return line.substring(2);
+            }
+        }
+
+        return result;
+    }
+
+    private String findLocation(BufferedReader br) throws IOException {
+        String result = "";
+        String line;
+        while ((line = br.readLine()) != null) {
+            if (line.indexOf("t:") != -1) {
                 return line.substring(2);
             }
         }

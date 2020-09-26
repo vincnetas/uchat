@@ -7,8 +7,8 @@
 
     <ImageButton
         android:id="@+id/face"
-        android:layout_width="256dp"
-        android:layout_height="265dp"
+        android:layout_width="225dp"
+        android:layout_height="225dp"
         android:background="@android:color/transparent"
 
         android:scaleType="fitXY"
@@ -20,6 +20,7 @@
         android:id="@+id/name"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:fontFamily="@font/poppins_semibold"
         android:gravity="center_horizontal"
         android:text="Žvejys nerijus"
@@ -28,4 +29,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/face" />
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins"
+        android:gravity="center_horizontal"
+        android:text="TextView"
+        android:textColor="@color/colorPaleFont"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name" />
 </androidx.constraintlayout.widget.ConstraintLayout>

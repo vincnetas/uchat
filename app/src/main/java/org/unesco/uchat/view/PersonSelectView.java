@@ -15,6 +15,8 @@ public class PersonSelectView extends ConstraintLayout {
 
     private TextView nameView;
 
+    private TextView locationView;
+
     public PersonSelectView(Context context) {
         this(context, null);
     }
@@ -29,10 +31,15 @@ public class PersonSelectView extends ConstraintLayout {
         inflate(getContext(), R.layout.item_persn_select, this);
         faceView = findViewById(R.id.face);
         nameView = findViewById(R.id.name);
+        locationView = findViewById(R.id.location);
     }
 
     public void setName(String name) {
         nameView.setText(name);
+    }
+
+    public void setLocation(String location) {
+        locationView.setText(location);
     }
 
     public void setFace(int resourceId) {

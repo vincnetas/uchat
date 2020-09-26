@@ -16,3 +16,5 @@ s:Šis mokslinis tyrimas yra išskirtinis žmogiškųjų vertybių mainų, vykus
 
 q:Kuo reikšmingas Struvės geodezinis lankas? 
 s:Mūsų laikais tai buvo tiksliausiai išmatuotas ir ilgiausias dienovidinio lankas. Kaip skruzdėlės lipdėme kilometrą po kilometro. Tai, kad matavimo rezultatais žemėlapiuose taikant Žemės elipsoidų parametrus ir kartografines projekcijas naudotasi visą šimtmetį, byloja apie mūsų darbo svarbą ir naudą. 
+
+b:Ponas Teneris paaiškino, kaip vyko Žemės matavimai, ir pasidžiaugė pasiektais rezultatais. Pradėk kitą pokalbį ir sužinok daugiau apie Lietuvos paveldo vertybes!

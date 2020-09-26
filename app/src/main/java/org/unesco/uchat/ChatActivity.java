@@ -32,7 +32,9 @@ public class ChatActivity extends AppCompatActivity {
     private LinearLayout optionsLayout;
     private TextView nameView;
     private TextView tagView;
+
     private int iconId;
+    private String byeText = "Bye";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -104,6 +106,11 @@ public class ChatActivity extends AppCompatActivity {
                 continue;
             }
 
+            if (line.indexOf("b:") != -1) {
+                byeText = line.substring(2);
+                continue;
+            }
+
             if (line.indexOf("n:") != -1) {
                 nameView.setText(line.substring(2));
                 continue;
@@ -142,7 +149,13 @@ public class ChatActivity extends AppCompatActivity {
     }
 
     public void goBack(View view) {
-        startActivity(new Intent(this, SelectChatActivity.class));
+        Intent intent = new Intent(this, ByeActivity.class);
+
+        intent.putExtra("name", nameView.getText());
+        intent.putExtra("face", iconId);
+        intent.putExtra("bye", byeText);
+
+        startActivity(intent);
 
     }
 

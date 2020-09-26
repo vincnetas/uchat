@@ -1,5 +1,5 @@
 n:Vilhelmas Struvė
-Struvės geodezinis lankas
+t:Struvės geodezinis lankas
 s:Gerbiamasis, esu profesorius, pavarde Struvė. Sukūriau metodiką dienovidiniam lankui išmatuoti. Kas tai ir kam to reikėjo, tuoj viską išdėstysiu.
 
 q:Kas yra Struvės geodezinis lankas? 
@@ -16,3 +16,5 @@ s:Be abejo, tokių tikslių matavimo rezultatų nebūtume pasiekę be įvairių 
 
 q:Kuo reikšmingas Struvės geodezinis lankas? 
 s:Savo tikslą pasiekėme – kaip įmanoma tiksliau ištyrėme ir nustatėme Žemės planetos dydį ir formą. Grandinė driekiasi 2 820 km nuo Hamerfesto (Norvegija) iki Juodosios jūros ir kerta 10 šalių: Norvegiją, Švediją, Suomiją, Rusiją, Estiją, Latviją, Lietuvą, Baltarusiją, Moldovą, Ukrainą. Trianguliacijos tinklų fragmentų matavimo rezultatus susisteminau ir aprašiau darbe „Arc du Méridien de 25°20'“. Net geriausiame sapne negalėjau susapnuoti, kad mano darbai duos tokių puikių rezultatų ir įkvėps mokslą tolesniems tyrinėjimams, juk remdamasis šiuo mano veikalu 1888 m. Žemės dienovidinio ilgį apskaičiavo geodezininkas Akselis Bonsdorfas.  
+
+b:Profesorius Struvė papasakojo, kokį didelį darbą jis suorganizavo ir atliko prieš 200 metų – tada tiksliausiai ištyrė ir nustatė Žemės planetos dydį ir formą. Pradėk kitą pokalbį ir sužinok daugiau apie Lietuvos paveldo vertybes!

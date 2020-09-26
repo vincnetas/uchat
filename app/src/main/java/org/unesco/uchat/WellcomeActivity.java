@@ -16,8 +16,12 @@ public class WellcomeActivity extends AppCompatActivity {
 
     public void showNext(View view) {
         startActivity(new Intent(this, SelectChatActivity.class));
-
     }
+
+    public void showHeritageSites(View view) {
+        startActivity(new Intent(this, HeritageSitesActivity.class));
+    }
+
 
     @Override
     public void onBackPressed() {
