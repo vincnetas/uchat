@@ -3,6 +3,7 @@ package org.unesco.uchat;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -49,7 +50,15 @@ public class ChatActivity extends AppCompatActivity {
 
         SharedPreferences preferences = getPreferences(Context.MODE_PRIVATE);
 
-        String number = getIntent().getStringExtra("number");
+        Uri data = getIntent().getData();
+        String number;
+
+        if (data != null) {
+            number = data.getQueryParameter("talk");
+        } else {
+            number = getIntent().getStringExtra("number");
+        }
+
         int id = getResources().getIdentifier("raw/r" + number, null, getPackageName());
         iconId = getResources().getIdentifier("drawable/per_" + number, null, getPackageName());
         BufferedReader br = new BufferedReader(new InputStreamReader(this.getResources().openRawResource(id)));

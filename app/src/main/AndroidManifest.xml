@@ -26,7 +26,18 @@
         <activity
             android:name=".ChatActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/noAnimTheme" />
+            android:theme="@style/noAnimTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="uchat.application"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".SelectChatActivity"
             android:screenOrientation="portrait"
