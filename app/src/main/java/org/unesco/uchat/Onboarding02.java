@@ -67,23 +67,23 @@ public class Onboarding02 extends AppCompatActivity {
                 put("CHILD_NAME", "Kryždirbystė ir jos simbolika Lietuvoje");
             }});
             add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Trijų Batijos valstybių Dainų ir šokių tradicija");
+                put("CHILD_NAME", "Trijų Baltijos valstybių Dainų ir šokių švenčių tradicija\n");
             }});
             add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Sutartinės, daugiabalsės lietuvių dainos");
-            }});
-            add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Baltijos kelias");
+                put("CHILD_NAME", "Sutartinės – daugiabalsės lietuvių dainos ");
             }});
         }};
         listOfChildGroups.add(childGroupForSecondGroupRow);
 
         List<Map<String, String>> childGroupForThirdGroupRow = new ArrayList<Map<String, String>>() {{
             add(new HashMap<String, String>() {{
+                put("CHILD_NAME", "Baltijos kelias");
+            }});
+            add(new HashMap<String, String>() {{
                 put("CHILD_NAME", "Liublino unija");
             }});
             add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Radvilų archyvai");
+                put("CHILD_NAME", "Radvilų archyvai, biblioteka");
             }});
         }};
         listOfChildGroups.add(childGroupForThirdGroupRow);

@@ -7,6 +7,17 @@
     android:background="@color/colorPrimary"
     tools:context=".Onboarding01">
 
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/background" />
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="0dp"
@@ -33,7 +44,7 @@
         android:layout_marginEnd="32dp"
         android:fontFamily="@font/poppins"
         android:gravity="center_horizontal"
-        android:text="Mobiliosios aplikacijos tikslas - supažindinti su Lietuvos paveldo vertybėmis, saugomomis UNESCO sąrašuose ir registruose."
+        android:text="Mobiliosios programėlės tikslas – supažindinti su Lietuvos paveldo vertybėmis, įrašytomis į UNESCO sąrašus ir registrus."
         android:textColor="@color/colorPaleFont"
         android:textSize="23sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -55,16 +66,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView9"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:scaleType="fitCenter"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/background" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

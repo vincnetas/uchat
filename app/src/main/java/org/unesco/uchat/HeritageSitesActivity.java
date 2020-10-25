@@ -67,18 +67,18 @@ public class HeritageSitesActivity extends AppCompatActivity {
                 put("CHILD_NAME", "Kryždirbystė ir jos simbolika Lietuvoje");
             }});
             add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Trijų Batijos valstybių Dainų ir šokių tradicija");
+                put("CHILD_NAME", "Sutartinės – daugiabalsės lietuvių dainos");
             }});
             add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Sutartinės, daugiabalsės lietuvių dainos");
-            }});
-            add(new HashMap<String, String>() {{
-                put("CHILD_NAME", "Baltijos kelias");
+                put("CHILD_NAME", "Trijų Baltijos valstybių Dainų ir šokių švenčių tradicija");
             }});
         }};
         listOfChildGroups.add(childGroupForSecondGroupRow);
 
         List<Map<String, String>> childGroupForThirdGroupRow = new ArrayList<Map<String, String>>() {{
+            add(new HashMap<String, String>() {{
+                put("CHILD_NAME", "Baltijos kelias");
+            }});
             add(new HashMap<String, String>() {{
                 put("CHILD_NAME", "Liublino unija");
             }});

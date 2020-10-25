@@ -18,7 +18,7 @@
         android:fontFamily="@font/poppins_semibold"
         android:gravity="center_horizontal"
         android:singleLine="false"
-        android:text="Truputis apie tave..."
+        android:text="Prisistatyk!"
         android:textColor="@color/colorDarkFont"
         android:textSize="32sp"
         app:layout_constraintEnd_toEndOf="parent"
